@@ -1,6 +1,6 @@
 # JS frameworks course assignment
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image]()
 
 The course assignment was to create a simple React app with login functionality and fetching data using REST api.
 
