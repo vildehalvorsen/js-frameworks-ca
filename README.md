@@ -1,6 +1,6 @@
 # JS frameworks course assignment
 
-![image]("JSFCA_1.jpg")
+![image](/JSFCA_1.jpg)
 
 The course assignment was to create a simple React app with login functionality and fetching data using REST api.
 
