@@ -1,0 +1,25 @@
+/* Navigation */
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    padding: 2rem;
+}
+
+nav li {
+    display: block;
+    min-width: fit-content;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+nav a:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}

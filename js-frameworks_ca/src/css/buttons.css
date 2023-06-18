@@ -1,0 +1,39 @@
+/* Buttons */
+
+button {
+    cursor: pointer;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin: 1.2rem 0;
+}
+
+#loginBtn,
+#contactBtn {
+    background-color: black;
+    padding: .8rem;
+}
+
+#loginBtn:hover,
+#contactBtn:hover {
+    background-color: rgb(0, 88, 89);
+}
+
+#loginBtn:disabled,
+#contactBtn:disabled,
+#loginBtn:disabled:hover,
+#contactBtn:disabled:hover {
+    background-color: rgb(80, 80, 80);
+}
+
+#logoutBtn {
+    background-color: rgb(180, 0, 0);
+    padding: 0 .8rem;
+    margin: auto 10px;
+    height: 30px;
+    min-width: fit-content;
+}
+
+#logoutBtn:hover {
+    background-color: rgb(68, 68, 68);
+}

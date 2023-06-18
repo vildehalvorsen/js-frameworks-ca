@@ -1,0 +1,31 @@
+/* Global */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.1rem;
+    margin: 0;
+}
+
+.container {
+    margin: 5rem 2rem;
+}
+
+.container a {
+    color: rgb(0, 88, 89);
+}
+
+.container a:hover {
+    letter-spacing: 1px;
+}
