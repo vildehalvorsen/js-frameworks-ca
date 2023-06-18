@@ -7,7 +7,7 @@ The course assignment was to create a simple React app with login functionality 
 ## Description
 
 - Log in
-To log in, you need to use your own strapi installation and login credentials.
+To log in, you need to use your own strapi installation and login credentials. You may modify the BASE_URL and TOKEN_PATH in the api.jsx file in the constants folder to fit your local environment.
 
 - List
 The app displays a list with a few properties. You can click each item.
