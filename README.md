@@ -1,6 +1,7 @@
 # JS Frameworks Course Assignment
 
 <img src="JSFCA_1.jpg" alt='screenshot' height='300'/>
+<img src="JSFCA_2.jpg" alt='screenshot' height='300'/>
 
 The course assignment was to create a simple React app with login functionality and fetching data using REST api.
 
