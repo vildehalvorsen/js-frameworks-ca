@@ -5,19 +5,19 @@ The course assignment was to create a simple React app with login functionality 
 
 ## Description
 
-- Log in
+- Log in <br/>
 To log in, you need to use your own strapi installation and login credentials. You may modify the BASE_URL and TOKEN_PATH in the api.jsx file in the constants folder to fit your local environment.
 
-- List
+- List  <br/>
 The app displays a list with a few properties. You can click each item.
 
-- List item details
+- List item details  <br/>
 When you click on an item, you get to a details page that retreives a parameter and fetches details of each item.
 
-- Contact form
+- Contact form  <br/>
 The contact form has validation handling using yup. The contact form is not functional.
 
-- Admin
+- Admin  <br/>
 The admin page only appears to logged in users, and it only displays a simple heading.
 
 
